@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: java
+Build-Jdk: 1.6.0_30
+Dependencies: com.camunda.fox.engine.fox-engine, com.camunda.fox.platf
+ orm.fox-platform-api
+
